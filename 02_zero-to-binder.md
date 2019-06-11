@@ -1,10 +1,8 @@
 # From Zero to Binder!
 
-Sarah Gibson, _The Alan Turing Institute_
+Chris Holdgraf, _Project Jupyter_
 
-[**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible Data Science "too easy not to do"
-
-Based on Tim Head's _Zero-to-Binder_ workshops which can be found here: http://bit.ly/zero-to-binder and http://bit.ly/zero-to-binder-rise
+Adapted from [**The Turing Way**](https://github.com/alan-turing-institute/the-turing-way) - making reproducible Data Science "too easy not to do"
 
 To follow these instructions on your own machine, follow this link: **http://bit.ly/zero-to-binder-tutorial**
 
