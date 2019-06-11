@@ -139,6 +139,9 @@ Binder is all about sharing your work easily and there are two ways to do it:
 * Visit **https://mybinder.org**, type in the URL of your repo and copy the Markdown or ReStructured Text snippet into your `README.md` file.
   This snippet will render a badge that people can click, which looks like this: ![Binder](https://mybinder.org/badge_logo.svg)
 
+- **N.B.:** You **don't** want to share the URL with `/user/`
+  in it - this is unique to your Binder session.
+
 **TO DO:** :vertical_traffic_light:
 
 1) Add the **Markdown** snippet from **https://mybinder.org** to the `README.md` file in your repo
